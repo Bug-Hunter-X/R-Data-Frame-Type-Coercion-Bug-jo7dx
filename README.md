@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon R bug related to data frame creation with inconsistent column types.  The `bug.R` file shows the code that produces the issue, resulting in type coercion and warnings. The `bugSolution.R` file provides a solution to explicitly define column types and avoid the issue. This is important to prevent unexpected behavior and data loss.
